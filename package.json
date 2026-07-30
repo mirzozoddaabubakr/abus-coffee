@@ -2,11 +2,9 @@
   "name": "abus-coffee-website",
   "version": "1.0.0",
   "description": "Abu's Coffee Handcrafted Website",
-  "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "dev": "node server.js",
-    "vercel-build": "echo Static site - no build needed"
+    "dev": "node server.js"
   },
   "keywords": ["coffee", "website", "react", "abus-coffee"],
   "author": "",
