@@ -1,8 +1,8 @@
 {
   "version": 2,
+  "outputDirectory": ".",
   "cleanUrls": true,
-  "routes": [
-    { "handle": "filesystem" },
-    { "src": "/(.*)", "dest": "/index.html" }
+  "rewrites": [
+    { "source": "/((?!assets/|favicon\\.svg).*)", "destination": "/index.html" }
   ]
 }
