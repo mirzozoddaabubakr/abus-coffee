@@ -1,6 +1,6 @@
 import { t as e } from "./jsx-runtime-9YgKe2Eq.js";
 import { lt as t } from "./lucide-react-BAD9fcv4.js";
-import { t as n } from "./proxy-DH7XULpl.js";
+import { t as n } from "./proxy-DH7XUlPl.js";
 import { t as r } from "./useButtonClick-qYfbo5vc.js";
 import { t as i } from "./utils-EIHTpZTP.js";
 var a = e()

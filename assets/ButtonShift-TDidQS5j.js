@@ -1,5 +1,5 @@
 import { t as e } from "./jsx-runtime-9YgKe2Eq.js";
-import { t } from "./proxy-DH7XULpl.js";
+import { t } from "./proxy-DH7XUlPl.js";
 import { t as n } from "./useButtonClick-qYfbo5vc.js";
 import { t as r } from "./utils-EIHTpZTP.js";
 var i = e()

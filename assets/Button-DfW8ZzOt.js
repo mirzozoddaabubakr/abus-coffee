@@ -1,17 +1,17 @@
 import { o as e, t } from "./jsx-runtime-9YgKe2Eq.js";
 import { t as n } from "./react-CM_0bdEm.js";
-import { t as r } from "./proxy-DH7XULpl.js";
+import { t as r } from "./proxy-DH7XUlPl.js";
 import { t as i } from "./useButtonClick-qYfbo5vc.js";
 import { t as a } from "./utils-EIHTpZTP.js";
 import { t as o } from "./ButtonArrow-DCAtovYN.js";
 import { t as s } from "./ButtonBounce-BLNRuHYe.js";
 import { t as c } from "./ButtonBubble-BkyJLyf3.js";
 import { t as l } from "./ButtonElastic-DmLZ66H2.js";
-import { t as u } from "./ButtonExpand-Du8Q1jog.js";
+import { t as u } from "./ButtonExpand-Du8Q1Jog.js";
 import { t as d } from "./ButtonFlip-BddzsiDm.js";
 import { t as f } from "./ButtonMagnetic-BAYXc9Gn.js";
 import { t as p } from "./ButtonPill-Bl0r20Rm.js";
-import { t as m } from "./ButtonShift-TDiDqS5j.js";
+import { t as m } from "./ButtonShift-TDidQS5j.js";
 import { t as h } from "./ButtonSlide--FY_x4iZ.js";
 import { t as g } from "./ButtonStagger-DvlwlGCD.js";
 var _ = e(n(), 1)

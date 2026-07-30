@@ -4,7 +4,7 @@ import { t as n } from "./CornerGlowBackground-B_3CCIya.js";
 import { t as r } from "./AuroraBackground-DhaeHb-g.js";
 import { t as i } from "./FloatingGradientBackground-BB1rMR0G.js";
 import { t as a } from "./GridLinesBackground-CQEaJBu6.js";
-import { t as o } from "./NoiseBackground-CbMZxlg5.js";
+import { t as o } from "./NoiseBackground-CbmZXlg5.js";
 import { t as s } from "./NoiseGradientBackground-DwFyHHeQ.js";
 var c = e()
     , l = () => {

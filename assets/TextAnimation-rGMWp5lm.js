@@ -1,6 +1,6 @@
 import { o as e, t } from "./jsx-runtime-9YgKe2Eq.js";
 import { t as n } from "./react-CM_0bdEm.js";
-import { t as r } from "./proxy-DH7XULpl.js";
+import { t as r } from "./proxy-DH7XUlPl.js";
 import { t as i } from "./utils-EIHTpZTP.js";
 var a = e(n(), 1)
     , o = t()

@@ -1,7 +1,7 @@
 import { o as e, t } from "./jsx-runtime-9YgKe2Eq.js";
 import { t as n } from "./react-CM_0bdEm.js";
 import { C as r, j as i, k as a } from "./lucide-react-BAD9fcv4.js";
-import { t as o } from "./proxy-DH7XULpl.js";
+import { t as o } from "./proxy-DH7XUlPl.js";
 import { t as s } from "./use-scroll-Cw8GJcOB.js";
 import { t as c } from "./use-transform-BCsyqma3.js";
 import { t as l } from "./AnimatePresence-DdTLBsbs.js";
@@ -13,7 +13,7 @@ import { t as h } from "./TextAnimation-rGMWp5lm.js";
 import { t as g } from "./ImageOrVideo-B7bL8acW.js";
 import { t as _ } from "./gsap-DJZDW1A8.js";
 import { t as v } from "./ScrollTrigger-BvUk3D8C.js";
-import { t as y } from "./AvatarGroup-xJMtNVgP.js";
+import { t as y } from "./AvatarGroup-xJMtNVGp.js";
 import { t as b } from "./AutoFillText-49didBfy.js";
 import { t as x } from "./FooterBrand-BrmijePR.js";
 import { t as S } from "./HeroBackgroundSlot-DajlRGCm.js";
@@ -943,7 +943,7 @@ function ue() {
                                                     }, {
                                                         imageSrc: `/assets/images/trail-3.webp`
                                                     }, {
-                                                        imageSrc: `/assets/images/trail-4.webp`
+                                                        imageSrc: `/assets/images/mocha.webp`
                                                     }, {
                                                         imageSrc: `/assets/images/trail-5.webp`
                                                     }, {

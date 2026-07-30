@@ -1,5 +1,5 @@
 import { t as e } from "./jsx-runtime-9YgKe2Eq.js";
-import { t } from "./proxy-DH7XULpl.js";
+import { t } from "./proxy-DH7XUlPl.js";
 var n = e()
     , r = {
         "slide-up": {
