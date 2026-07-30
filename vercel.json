@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "outputDirectory": ".",
+  "cleanUrls": true,
   "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
+    { "source": "/((?!assets/|favicon\\.svg).*)", "destination": "/index.html" }
   ]
 }
